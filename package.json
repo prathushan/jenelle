@@ -9,7 +9,7 @@
     "react-router-dom": "^6.28.1",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "https://v-i-nay.github.io/JanelleCarothers",
+  "homepage": "https://prathushan.github.io/JanelleCarothers",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
